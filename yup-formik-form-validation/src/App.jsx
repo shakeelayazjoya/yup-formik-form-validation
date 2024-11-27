@@ -1,4 +1,3 @@
-import React from "react";
 import "./App.css"; // Import external CSS file
 import userSchema from "./validation/uservalidation"; // Import your Yup schema
 
